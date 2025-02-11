@@ -41,7 +41,7 @@ This guide outlines the step-by-step process to deploy **Windows 11** to client 
     
     ![alt text](assets/img7.png)
 
-4. Click Next and then Close when the process completes. Whate for the Content Status to become sucessful.
+4. Click Next and then Close when the process completes. Wait for the Content Status to become sucessful.
    
     ![alt text](assets/img9.png)
 
